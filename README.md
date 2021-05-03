@@ -1,2 +1,3 @@
 # MusicPlayer
-A java program that pulls 5 audio tracks and plays them 
+Timothy Folkers timothysfolkers@lewisu.edu
+This is a java program that pulls five audio tracks from a folder and plays them individually. The buttons on the program will start and stop the tracks. Each track can only be played one at a time. In addition, the tracks will loop when they finish playing. The audio tracks have to be in the res folder within the java project and called correctly within the java program. If the audio is not converted to 16 bit, the songs will not play. The tracks in this program have been converted to 16 bit depth. In addition, the tracks within this program are of my own creations. Track 2 is a cover track of the show Naruto and Track 5 pulls inspiration of Alice DJ's Better Off Alone. Track 1, 3, and 4 are my orignal songs that I have created over the last year.  
